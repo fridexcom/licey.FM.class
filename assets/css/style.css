@@ -403,7 +403,7 @@ section{
 }
 .expert .bg-img{
 	background-image: url(../images/HNCaHWWXbHo.jpg);
-	background-position-x: 2%;
+	background-position-x: 100%;
 	height: 110%;
 }
 .expert .bg-img:after{
